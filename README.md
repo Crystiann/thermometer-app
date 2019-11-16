@@ -5,5 +5,3 @@ O aplicatie python care are un obiect temperatura
 Python 3.7
 
 ## Metode implementare
-
-## TEST
